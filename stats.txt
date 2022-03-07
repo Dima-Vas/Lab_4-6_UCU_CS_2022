@@ -1,0 +1,40 @@
+Gopnick : 
+    self.hp = 110
+    self.damage = 15
+    self.agility = 5
+    self.inteligence = 90
+    self.charisma = 70
+    self.type = "Gopnick"
+
+Turnickman
+    self.hp = 120
+    self.damage = 20
+    self.agility 1
+    self.inteligence = 85
+    self.charisma = 80
+    self.type = "Turnickman"
+
+Zoomer
+    self.hp = 90
+    self.damage = 9
+    self.agility = 20
+    self.inteligence = 105
+    self.charisma = 45
+    self.type = "Zoomer"
+
+Student
+    self.hp = 105
+    self.damage = 8
+    self.agility = 15
+    self.inteligence = 120
+    self.charisma = 40
+    self.type = "Student"
+
+Granny
+    self.hp = 90
+    self.damage = 5
+    self.agility = 0
+    self.inteligence = 110
+    self.charisma = 80
+    self.type = "Granny"
+    self.pack.append("Walking Stick")
